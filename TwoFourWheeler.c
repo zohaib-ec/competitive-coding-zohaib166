@@ -9,6 +9,6 @@ int main() {
 
     four_wheelers = (4*total_vehicles - total_wheels)/2;
 
-    printf("%d %d\n", two_wheelers, four_wheelers); //do not change this line
+    printf("%d %d", two_wheelers, four_wheelers); //do not change this line
   
 }
