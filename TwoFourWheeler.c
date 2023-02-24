@@ -7,7 +7,7 @@ int main() {
 
     two_wheelers = (total_wheels - 2*total_vehicles)/2;
 
-    four_wheelers = (4*total_vehicles - total_wheels)/2
+    four_wheelers = (4*total_vehicles - total_wheels)/2;
 
     printf("%d %d\n", two_wheelers, four_wheelers); //do not change this line
   
