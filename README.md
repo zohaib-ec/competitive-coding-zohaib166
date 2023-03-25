@@ -19,6 +19,10 @@ Example:
 
 # Constraints :
 2<=W
+
 W%2=0
+
 V<W
+    
 Print “INVALID INPUT” , if inputs did not meet the constraints.
+
