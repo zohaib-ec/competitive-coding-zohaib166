@@ -15,7 +15,7 @@ Example:
 
 # Explanation-
 130+70 = 200 vehicles
-(70*4)+(130*2)= 540 wheels
+(70 * 4)+(130 * 2)= 540 wheels
 
 # Constraints :
 2<=W
